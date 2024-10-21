@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetoOO</string>
+    <string name="horista">Horista</string>
+    <string name="titular">Titular</string>
+    <string name="calcular">Calcular</string>
+    <string name="horas">Horas</string>
+    <string name="adicional">Adicional</string>
+    <string name="Salario">R$</string>
+
+
+</resources>
